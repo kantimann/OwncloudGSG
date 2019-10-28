@@ -1,4 +1,4 @@
-# Before You Setup ownCloud Server
+# Before You Set up Your ownCloud Server
 
 Before downloading and installing your ownCloud server, review the following topics to be sure you understand the various considerations, and that your system meets the ownCloud Server requirements: 
 
