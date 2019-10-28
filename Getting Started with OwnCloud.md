@@ -16,7 +16,3 @@ Add users accounts so they can access Owncloud | N/A
 N/A | Connect to the Owncloud server from your laptop, or any mobile device
  
 Since this is a Quick Start guide, which omits numerous details by design, it includes many pointers to where subject details are described. 
-
-
-
- 
